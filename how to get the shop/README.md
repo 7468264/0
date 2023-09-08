@@ -6,7 +6,7 @@ Enter the page to subscribe to the shop
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/eddaa09f-8916-44fa-a0ed-023a287c90c1)
 
-Copy address
+Copy the address
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/aedafa2d-f624-4621-a494-43a15d99a513)
 
