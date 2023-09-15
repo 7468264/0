@@ -19,3 +19,5 @@ Enter the address and subscription amount. Please note whether the converted cur
 ![image](https://github.com/pocoda7428/shop/assets/143950037/780ae9fc-64f6-4ba1-865f-3740a70abdfc)
 
 You will receive discord notification after successful subscription 
+
+**Transactions may take some time to process, so please be patient. Payments may take 15-60 minutes to synchronize with the system from the time they are made.**
