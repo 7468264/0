@@ -1,14 +1,14 @@
 # How to get the shop
 
-Enter the page to subscribe to the shop
+Enter the page to subscribe to the shop 
 
 [https://urlzs.com/ZRf5h](https://urlzs.com/gXaSr)
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/eddaa09f-8916-44fa-a0ed-023a287c90c1)
 
-Copy the address
+Go to the store subscription page and remember the amount of **BTC** required to subscribe
 
-![image](https://github.com/pocoda7428/shop/assets/143950037/aedafa2d-f624-4621-a494-43a15d99a513)
+![image](https://github.com/pocoda7428/shop/assets/143950037/2cb26be1-d4f7-4aab-b41a-b8a20601f39c)
 
 Click the link to make payment
 
