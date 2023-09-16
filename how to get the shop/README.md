@@ -20,4 +20,6 @@ Enter the **address** and subscription amount Please pay attention to whether th
 
 You will receive discord notification after successful subscription 
 
+If you haven't received your role after subscribing for more than 1 hour, please DM the Discord administrators.
+
 **Transactions may take some time to process, so please be patient. Payments may take 15-60 minutes to synchronize with the system from the time they are made.**
