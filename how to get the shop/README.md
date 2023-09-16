@@ -6,7 +6,7 @@ Enter the page to subscribe to the shop
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/eddaa09f-8916-44fa-a0ed-023a287c90c1)
 
-Go to the store subscription page and remember the amount of **BTC** required to subscribe
+Copy **address** and remember the amount of **BTC** required to subscribe 
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/2cb26be1-d4f7-4aab-b41a-b8a20601f39c)
 
@@ -14,7 +14,7 @@ Click the link to make payment
 
 https://changelly.com/buy
 
-Enter the address and subscription amount Please pay attention to whether the **BTC** is sufficient after currency conversion.
+Enter the **address** and subscription amount Please pay attention to whether the **BTC** is sufficient after currency conversion.
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/20f93b93-dcfd-4c44-8983-d9fadf4ae368)
 
