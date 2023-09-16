@@ -14,7 +14,7 @@ Click the link to make payment
 
 https://changelly.com/buy
 
-Enter the address and subscription amount. Please note whether the converted currency value is sufficient
+Enter the address and subscription amount. Please pay attention to whether the **BTC** is sufficient after currency conversion
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/780ae9fc-64f6-4ba1-865f-3740a70abdfc)
 
