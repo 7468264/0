@@ -14,9 +14,9 @@ Click the link to make payment
 
 https://changelly.com/buy
 
-Enter the address and subscription amount. Please pay attention to whether the **BTC** is sufficient after currency conversion
+Enter the address and subscription amount Please pay attention to whether the **BTC** is sufficient after currency conversion.
 
-![image](https://github.com/pocoda7428/shop/assets/143950037/780ae9fc-64f6-4ba1-865f-3740a70abdfc)
+![image](https://github.com/pocoda7428/shop/assets/143950037/20f93b93-dcfd-4c44-8983-d9fadf4ae368)
 
 You will receive discord notification after successful subscription 
 
