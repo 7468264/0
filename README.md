@@ -6,7 +6,7 @@ https://discord.gg/kkKmDNyZgc
 * [how to get the shop](https://github.com/pocoda7428/shop/tree/main/how%20to%20get%20the%20shop)
 * [how to use shop](https://github.com/pocoda7428/shop/tree/main/how%20to%20use%20shop)
 --------------------------------------------------------------------------------------------
-* Requirements
+## Requirements
 * Relies on [Tinfoil](https://tinfoil.io/).
 
 You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
