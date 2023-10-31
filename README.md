@@ -5,11 +5,8 @@ https://discord.gg/kkKmDNyZgc
 ## menu
 * [how to get the shop](https://github.com/pocoda7428/shop/tree/main/how%20to%20get%20the%20shop)
 * [how to use shop](https://github.com/pocoda7428/shop/tree/main/how%20to%20use%20shop)
-
-
+--------------------------------------------------------------------------------------------
 * Requirements
-Nintendo Switch running CFW ([Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) 
-
 * Relies on [Tinfoil](https://tinfoil.io/).
 
 You are recommended to DELETE the current Tinfoil locations.conf [switch/tinfoil/locations.conf] from your SD card before adding server.
