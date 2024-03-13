@@ -4,7 +4,7 @@ Enter the page to subscribe to the shop
 
 [https://urlzs.com/ZRf5h](https://urlzs.com/gXaSr)
 
-![image](https://github.com/pocoda7428/shop/assets/143950037/eddaa09f-8916-44fa-a0ed-023a287c90c1)
+![image](https://github.com/pocoda7428/shop/assets/143950037/03b4f607-9906-4358-93f9-d3c5117569b9)
 
 Copy **address** and remember the amount of **BTC** required to subscribe 
 
