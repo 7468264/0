@@ -2,7 +2,7 @@
 
 Enter the page to subscribe to the shop 
 
-[https://urlzs.com/ZRf5h](https://shorturl.at/btyW4)
+![https://shorturl.at/btyW4](https://shorturl.at/btyW4)
 
 ![image](https://github.com/pocoda7428/shop/assets/143950037/03b4f607-9906-4358-93f9-d3c5117569b9)
 
