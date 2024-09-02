@@ -4,11 +4,11 @@ Enter the page to subscribe to the shop
 
 [Subscription Premium Member](https://shorturl.at/btyW4)
 
-![image](https://github.com/pocoda7428/shop/assets/143950037/6a17cb3b-26b5-4251-8234-a355f7d6b084)
+![image](https://github.com/user-attachments/assets/d9ab9608-6428-4af7-82a8-87439102426f)
 
 Copy **address** and remember the amount of **BTC** required to subscribe 
 
-![image](https://github.com/pocoda7428/shop/assets/143950037/fb9f7838-f5de-47cd-908a-49d30b05a666)
+![image](https://github.com/user-attachments/assets/4ba7abf6-4de4-4fe7-871d-90e7e9db8106)
 
 Click the link to make payment
 
@@ -16,7 +16,7 @@ https://changelly.com/buy
 
 Enter the **address** and subscription amount Please pay attention to whether the **BTC** is sufficient after currency conversion.
 
-![image](https://github.com/pocoda7428/shop/assets/143950037/e53e2ea2-e381-42a0-9d63-3f58e63bfd67)
+![image](https://github.com/user-attachments/assets/efdd6995-72fb-452d-b34b-d44312683b4f)
 
 You will receive discord notification after successful subscription 
 
